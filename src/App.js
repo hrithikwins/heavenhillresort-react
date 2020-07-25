@@ -1,4 +1,6 @@
 import React from 'react';
+import { Navigation } from './views/nav/navigation';
+import { TopNav } from './views/nav/top-nav';
 
 function App() {
   return (
@@ -10,17 +12,8 @@ function App() {
         </div>
       </div>
       <div className="site-wrap">
-        <Navigatio />
+        <TopNav />
         <Navigation />
-        <Navigation />
-        <Navigation />
-        <Navigation />
-        <Navigation />
-        <Navigation />
-        <Navigation />
-        <Navigation />
-        <Navigation />
-        {/* End of site-wrap one div would be extra */}
       </div>
     </>
   );
