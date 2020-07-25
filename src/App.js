@@ -16,9 +16,9 @@ function App() {
     <>
       <div id="overlayer" />
       <div className="loader">
-        <div className="spinner-border text-primary" role="status">
+        {/* <div className="spinner-border text-primary" role="status">
           <span className="sr-only">Loading...</span>
-        </div>
+        </div> */}
       </div>
       <div className="site-wrap">
         <TopNav />
