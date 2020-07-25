@@ -1,6 +1,6 @@
 import React from 'react';
 
-const TopNav = () => (
+export const TopNav = () => (
     <div className="site-mobile-menu site-navbar-target">
         <div className="site-mobile-menu-header">
             <div className="site-mobile-menu-close mt-3">
