@@ -1,25 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div id="overlayer" />
+      <div className="loader">
+        <div className="spinner-border text-primary" role="status">
+          <span className="sr-only">Loading...</span>
+        </div>
+      </div>
+      <div className="site-wrap">
+        <Navigatio />
+        <Navigation />
+        <Navigation />
+        <Navigation />
+        <Navigation />
+        <Navigation />
+        <Navigation />
+        <Navigation />
+        <Navigation />
+        <Navigation />
+        {/* End of site-wrap one div would be extra */}
+      </div>
+    </>
   );
 }
 
