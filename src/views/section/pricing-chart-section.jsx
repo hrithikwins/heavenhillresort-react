@@ -10,30 +10,30 @@ export const PricingChartSection = () => (
             </div>
             <div className="row mb-5">
                 <div className="col-lg-4 col-md-6 mb-4 mb-lg-0 post-entry">
-                    <a href="#" className="d-block figure">
+                    <a href="#home" className="d-block figure">
                         <img src="images/img_1.jpg" alt="Image" className="img-fluid" />
                     </a>
                     <span className="text-muted d-block mb-1">29, January 2019</span>
-                    <h3><a href="#">Architectural Art Modern</a></h3>
+                    <h3><a href="#home">Architectural Art Modern</a></h3>
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4 mb-lg-0 post-entry">
-                    <a href="#" className="d-block figure">
+                    <a href="#home" className="d-block figure">
                         <img src="images/img_2.jpg" alt="Image" className="img-fluid" />
                     </a>
                     <span className="text-muted d-block mb-1">29, January 2019</span>
-                    <h3><a href="#">Architectural Art Modern</a></h3>
+                    <h3><a href="#home">Architectural Art Modern</a></h3>
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4 mb-lg-0 post-entry">
-                    <a href="#" className="d-block figure">
+                    <a href="#home" className="d-block figure">
                         <img src="images/img_3.jpg" alt="Image" className="img-fluid" />
                     </a>
                     <span className="text-muted d-block mb-1">29, January 2019</span>
-                    <h3><a href="#">Architectural Art Modern</a></h3>
+                    <h3><a href="#home">Architectural Art Modern</a></h3>
                 </div>
             </div>
             <div className="row mt-5 text-center">
                 <div className="col-12">
-                    <p><a href="#" className="btn btn-primary btn-lg rounded-0">View All Posts</a></p>
+                    <p><a href="#home" className="btn btn-primary btn-lg rounded-0">View All Posts</a></p>
                 </div>
             </div>
         </div>

@@ -44,7 +44,7 @@ export const PricingSection = () => (
                             <input type="radio" name="selection" defaultValue="One" />A/C &nbsp;
                       <input type="radio" name="selection" defaultValue="Two" />Non- A/C
                     </div>
-                        <p><a href="#" className="btn btn-lg btn-primary rounded-0 btn-block">Calculate</a></p>
+                        <p><a href="#home" className="btn btn-lg btn-primary rounded-0 btn-block">Calculate</a></p>
                         <label htmlFor="results">Enter required details and press Calculate for pricing</label>
                     </div>
                 </div>
@@ -60,7 +60,7 @@ export const PricingSection = () => (
                             <li>Email Support</li>
                             <li className="text-muted"><del>Phone Support 24/7</del></li>
                         </ul>
-                        <p><a href="#" className="btn btn-lg btn-primary rounded-0 btn-block">Buy Now</a></p>
+                        <p><a href="#home" className="btn btn-lg btn-primary rounded-0 btn-block">Buy Now</a></p>
                     </div>
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4 mb-lg-0 pricing">
@@ -75,7 +75,7 @@ export const PricingSection = () => (
                             <li>Email Support</li>
                             <li>Phone Support 24/7</li>
                         </ul>
-                        <p><a href="#" className="btn btn-lg btn-primary rounded-0 btn-block">Buy Now</a></p>
+                        <p><a href="#home" className="btn btn-lg btn-primary rounded-0 btn-block">Buy Now</a></p>
                     </div>
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4 mb-lg-0 pricing">
@@ -90,7 +90,7 @@ export const PricingSection = () => (
                             <li>Email Support</li>
                             <li>Phone Support 24/7</li>
                         </ul>
-                        <p><a href="#" className="btn btn-lg btn-primary rounded-0 btn-block">Buy Now</a></p>
+                        <p><a href="#home" className="btn btn-lg btn-primary rounded-0 btn-block">Buy Now</a></p>
                     </div>
                 </div>
             </div>

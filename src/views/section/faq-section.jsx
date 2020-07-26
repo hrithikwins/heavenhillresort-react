@@ -13,7 +13,7 @@ export const FaqSection = () => (
                     <div className="accordion" id="accordionExample">
                         <div className="accordion-item">
                             <h2 className="mb-0 rounded mb-2">
-                                <a href="#" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                <a href="#home" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                     Do we get trekking packages in your resort?</a>
                             </h2>
                             <div id="collapseOne" className="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
@@ -25,7 +25,7 @@ export const FaqSection = () => (
                         </div>
                         <div className="accordion-item">
                             <h2 className="mb-0 rounded mb-2">
-                                <a href="#" className="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <a href="#home" className="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     When we choose swimming, what all other services are included for us?
                         </a>
                             </h2>
@@ -41,7 +41,7 @@ export const FaqSection = () => (
                         </div>
                         <div className="accordion-item">
                             <h2 className="mb-0 rounded mb-2">
-                                <a href="#" className="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <a href="#home" className="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                     Which is the perfect season for bird watching at Heaven Hill Resort?
                         </a>
                             </h2>
@@ -60,7 +60,7 @@ export const FaqSection = () => (
                         </div>
                         <div className="accordion-item">
                             <h2 className="mb-0 rounded mb-2">
-                                <a href="#" className="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                <a href="#home" className="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                     Are photoshoots allowed in Heaven Hill Resort?
                         </a>
                             </h2>
@@ -79,7 +79,7 @@ export const FaqSection = () => (
                         </div>
                         <div className="accordion-item">
                             <h2 className="mb-0 rounded mb-2">
-                                <a href="#" className="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                <a href="#home" className="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                     Can we have a day trekking, Night Campfires and Dormitory room together?
                         </a>
                             </h2>

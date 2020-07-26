@@ -19,18 +19,18 @@ export const Footer = () => (
                         </div>
                         <div className="col-md-6 col-lg-6">
                             <ul className="list-unstyled">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">News</a></li>
-                                <li><a href="#">Team</a></li>
+                                <li><a href="#home">Home</a></li>
+                                <li><a href="#home">Services</a></li>
+                                <li><a href="#home">News</a></li>
+                                <li><a href="#home">Team</a></li>
                             </ul>
                         </div>
                         <div className="col-md-6 col-lg-6">
                             <ul className="list-unstyled">
-                                <li><a href="#">Interior Design</a></li>
-                                <li><a href="#">Architect</a></li>
-                                <li><a href="#">Privacy</a></li>
-                                <li><a href="#">Membership</a></li>
+                                <li><a href="#home">Interior Design</a></li>
+                                <li><a href="#home">Architect</a></li>
+                                <li><a href="#home">Privacy</a></li>
+                                <li><a href="#home">Membership</a></li>
                             </ul>
                         </div>
                     </div>
@@ -41,7 +41,7 @@ export const Footer = () => (
                         <div className="block-25">
                             <ul className="list-unstyled">
                                 <li className="mb-3">
-                                    <a href="#" className="d-flex">
+                                    <a href="#home" className="d-flex">
                                         <figure className="image mr-4">
                                             <img src="images/img_2.jpg" alt className="img-fluid" />
                                         </figure>
@@ -53,7 +53,7 @@ export const Footer = () => (
                                     </a>
                                 </li>
                                 <li className="mb-3">
-                                    <a href="#" className="d-flex">
+                                    <a href="#home" className="d-flex">
                                         <figure className="image mr-4">
                                             <img src="images/img_3.jpg" alt className="img-fluid" />
                                         </figure>
@@ -65,7 +65,7 @@ export const Footer = () => (
                                     </a>
                                 </li>
                                 <li className="mb-3">
-                                    <a href="#" className="d-flex">
+                                    <a href="#home" className="d-flex">
                                         <figure className="image mr-4">
                                             <img src="images/img_4.jpg" alt className="img-fluid" />
                                         </figure>
@@ -97,9 +97,9 @@ export const Footer = () => (
                         <div className="col-md-12">
                             <h3 className="footer-heading mb-4">Follow Us</h3>
                             <div>
-                                <a href="#" className="pl-0 pr-3"><span className="icon-facebook" /></a>
-                                <a href="#" className="pl-3 pr-3"><span className="icon-twitter" /></a>
-                                <a href="#" className="pl-3 pr-3"><span className="icon-instagram" /></a>
+                                <a href="#home" className="pl-0 pr-3"><span className="icon-facebook" /></a>
+                                <a href="#home" className="pl-3 pr-3"><span className="icon-twitter" /></a>
+                                <a href="#home" className="pl-3 pr-3"><span className="icon-instagram" /></a>
                             </div>
                         </div>
                     </div>

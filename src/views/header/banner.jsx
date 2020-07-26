@@ -6,7 +6,7 @@ export const Banner = () => (
         <div className="container">
             <div className="row align-items-center text-center justify-content-center">
                 <div className="col-md-8">
-                    <a data-fancybox data-ratio={2} href="#" className="play-button d-block">
+                    <a data-fancybox data-ratio={2} href="#home" className="play-button d-block">
                         <span className="icon-building-o" />
                     </a>
                     <h1 className="text-uppercase">Heaven Hill Resort</h1>
